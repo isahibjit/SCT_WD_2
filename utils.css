@@ -1,0 +1,17 @@
+.circle{
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+.height-width{
+    height: 10vh;
+    width: 10vh;
+}
